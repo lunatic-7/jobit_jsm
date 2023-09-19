@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "jobit",
-    "slug": "jobit"
+    "slug": "jobit",
+    "android": {
+      "package": "com.lunatic07.jobit"
+    }
   }
 }
